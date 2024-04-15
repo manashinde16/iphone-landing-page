@@ -56,7 +56,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/manashinde16/iphone-landing-page.git
-cd iphone-doc
+cd iphone-landing-page
 ```
 
 **Installation**
